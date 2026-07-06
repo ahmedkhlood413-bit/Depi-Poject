@@ -1,0 +1,17 @@
+device_key,device_type,screen_time_category
+1,Android,Moderate
+2,Laptop,Moderate
+3,Android,High
+4,Tablet,Moderate
+5,Android,Very High
+6,Iphone,Moderate
+7,Tablet,High
+8,Iphone,Low
+9,Iphone,High
+10,Laptop,High
+11,Tablet,Very High
+12,Laptop,Low
+13,Laptop,Very High
+14,Iphone,Very High
+15,Android,Low
+16,Tablet,Low

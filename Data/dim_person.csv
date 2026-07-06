@@ -1,0 +1,575 @@
+person_key,gender,age_group,income_level,education_level,daily_role
+1,Female,Mid Age,High,High School,Part-Time/Shift
+2,Male,Adult,Lower-Mid,Master,Full-Time Employee
+3,Male,Adult,Lower-Mid,Bachelor,Full-Time Employee
+4,Female,Mid Age,Low,Master,Caregiver/Home
+5,Female,Adult,Lower-Mid,Bachelor,Full-Time Employee
+6,Female,Mid Age,Upper-Mid,Bachelor,Caregiver/Home
+7,Female,Teen,Lower-Mid,High School,Unemployed_Looking
+8,Female,Adult,Upper-Mid,Master,Full-Time Employee
+9,Female,Mid Age,Lower-Mid,Phd,Full-Time Employee
+10,Female,Mid Age,Low,High School,Full-Time Employee
+11,Female,Mid Age,Lower-Mid,High School,Caregiver/Home
+12,Female,Teen,Low,High School,Student
+13,Female,Young Adult,Low,Bachelor,Student
+14,Female,Young Adult,Lower-Mid,Master,Full-Time Employee
+15,Female,Young Adult,Low,Bachelor,Full-Time Employee
+16,Female,Young Adult,Upper-Mid,Bachelor,Student
+17,Male,Young Adult,Lower-Mid,Master,Full-Time Employee
+18,Male,Young Adult,Lower-Mid,Bachelor,Full-Time Employee
+19,Male,Teen,Low,High School,Student
+20,Female,Young Adult,Lower-Mid,Bachelor,Part-Time/Shift
+21,Male,Adult,Upper-Mid,High School,Student
+22,Female,Young Adult,Upper-Mid,Bachelor,Full-Time Employee
+23,Female,Young Adult,Low,Bachelor,Part-Time/Shift
+24,Female,Adult,Upper-Mid,Bachelor,Full-Time Employee
+25,Female,Young Adult,High,Master,Part-Time/Shift
+26,Female,Mid Age,Upper-Mid,Bachelor,Unemployed_Looking
+27,Female,Mid Age,Lower-Mid,Bachelor,Caregiver/Home
+28,Male,Mid Age,Low,Bachelor,Caregiver/Home
+29,Female,Adult,Low,Master,Caregiver/Home
+30,Male,Young Adult,Lower-Mid,Bachelor,Part-Time/Shift
+31,Male,Teen,Low,High School,Full-Time Employee
+32,Female,Adult,Upper-Mid,High School,Full-Time Employee
+33,Male,Mid Age,Low,Master,Part-Time/Shift
+34,Female,Teen,Low,Bachelor,Student
+35,Male,Adult,Low,Phd,Unemployed_Looking
+36,Male,Young Adult,Lower-Mid,High School,Full-Time Employee
+37,Male,Mid Age,High,Master,Full-Time Employee
+38,Female,Adult,High,High School,Unemployed_Looking
+39,Male,Mid Age,Lower-Mid,Master,Part-Time/Shift
+40,Female,Young Adult,Upper-Mid,Bachelor,Part-Time/Shift
+41,Male,Adult,Upper-Mid,Bachelor,Student
+42,Female,Mid Age,High,Master,Caregiver/Home
+43,Male,Mid Age,High,Bachelor,Part-Time/Shift
+44,Female,Mid Age,Lower-Mid,Bachelor,Unemployed_Looking
+45,Female,Young Adult,Lower-Mid,Master,Unemployed_Looking
+46,Male,Teen,Lower-Mid,High School,Student
+47,Female,Teen,Lower-Mid,High School,Student
+48,Female,Adult,Upper-Mid,Master,Part-Time/Shift
+49,Male,Adult,Upper-Mid,Bachelor,Unemployed_Looking
+50,Male,Teen,Lower-Mid,Bachelor,Part-Time/Shift
+51,Male,Adult,Upper-Mid,Bachelor,Full-Time Employee
+52,Male,Young Adult,Low,Bachelor,Part-Time/Shift
+53,Female,Mid Age,Low,Master,Full-Time Employee
+54,Female,Adult,High,Bachelor,Full-Time Employee
+55,Male,Adult,Upper-Mid,High School,Full-Time Employee
+56,Female,Teen,Lower-Mid,Bachelor,Student
+57,Female,Mid Age,Lower-Mid,Bachelor,Full-Time Employee
+58,Male,Mid Age,Upper-Mid,Bachelor,Part-Time/Shift
+59,Male,Adult,High,High School,Part-Time/Shift
+60,Male,Adult,Low,Phd,Full-Time Employee
+61,Male,Mid Age,Lower-Mid,Bachelor,Full-Time Employee
+62,Male,Young Adult,Low,Bachelor,Student
+63,Female,Adult,Lower-Mid,Bachelor,Unemployed_Looking
+64,Male,Mid Age,Upper-Mid,Bachelor,Caregiver/Home
+65,Female,Young Adult,Low,Bachelor,Unemployed_Looking
+66,Female,Mid Age,Upper-Mid,Phd,Part-Time/Shift
+67,Female,Mid Age,Lower-Mid,Phd,Part-Time/Shift
+68,Female,Young Adult,Lower-Mid,Bachelor,Student
+69,Female,Adult,High,Bachelor,Part-Time/Shift
+70,Female,Young Adult,Lower-Mid,Master,Student
+71,Female,Young Adult,Low,High School,Full-Time Employee
+72,Male,Young Adult,Low,Master,Student
+73,Male,Adult,Low,High School,Part-Time/Shift
+74,Male,Mid Age,Low,Bachelor,Part-Time/Shift
+75,Female,Adult,Low,Bachelor,Full-Time Employee
+76,Female,Mid Age,Upper-Mid,Master,Full-Time Employee
+77,Female,Mid Age,High,Bachelor,Full-Time Employee
+78,Female,Young Adult,Low,High School,Part-Time/Shift
+79,Female,Mid Age,Upper-Mid,Bachelor,Part-Time/Shift
+80,Male,Young Adult,Upper-Mid,Bachelor,Student
+81,Male,Young Adult,Low,Bachelor,Unemployed_Looking
+82,Female,Teen,Low,High School,Part-Time/Shift
+83,Female,Adult,Low,Master,Full-Time Employee
+84,Male,Young Adult,Upper-Mid,Bachelor,Unemployed_Looking
+85,Male,Young Adult,Low,High School,Full-Time Employee
+86,Male,Young Adult,Upper-Mid,Bachelor,Full-Time Employee
+87,Female,Mid Age,High,Bachelor,Unemployed_Looking
+88,Female,Adult,Low,Bachelor,Part-Time/Shift
+89,Female,Adult,Lower-Mid,Master,Full-Time Employee
+90,Female,Mid Age,Upper-Mid,Bachelor,Full-Time Employee
+91,Female,Adult,Upper-Mid,Bachelor,Unemployed_Looking
+92,Female,Adult,Low,Master,Part-Time/Shift
+93,Female,Adult,Lower-Mid,Master,Part-Time/Shift
+94,Female,Mid Age,Upper-Mid,High School,Full-Time Employee
+95,Female,Adult,Low,High School,Full-Time Employee
+96,Male,Mid Age,High,Bachelor,Unemployed_Looking
+97,Male,Mid Age,Upper-Mid,Master,Part-Time/Shift
+98,Male,Young Adult,Upper-Mid,Master,Part-Time/Shift
+99,Female,Adult,Upper-Mid,High School,Part-Time/Shift
+100,Male,Young Adult,Low,High School,Student
+101,Male,Adult,Upper-Mid,Bachelor,Part-Time/Shift
+102,Male,Adult,Low,High School,Unemployed_Looking
+103,Male,Adult,Low,Bachelor,Part-Time/Shift
+104,Male,Young Adult,Upper-Mid,Bachelor,Part-Time/Shift
+105,Male,Young Adult,High,Bachelor,Student
+106,Female,Adult,Upper-Mid,Bachelor,Part-Time/Shift
+107,Male,Adult,Upper-Mid,Phd,Full-Time Employee
+108,Female,Adult,Lower-Mid,High School,Unemployed_Looking
+109,Female,Young Adult,High,Bachelor,Full-Time Employee
+110,Male,Mid Age,High,Phd,Unemployed_Looking
+111,Female,Mid Age,High,Bachelor,Part-Time/Shift
+112,Male,Young Adult,Lower-Mid,Bachelor,Student
+113,Female,Adult,Lower-Mid,Bachelor,Part-Time/Shift
+114,Female,Adult,High,High School,Full-Time Employee
+115,Male,Teen,Low,High School,Part-Time/Shift
+116,Female,Mid Age,Low,Bachelor,Part-Time/Shift
+117,Male,Mid Age,High,High School,Full-Time Employee
+118,Male,Adult,Low,Master,Full-Time Employee
+119,Female,Mid Age,Low,Bachelor,Unemployed_Looking
+120,Male,Mid Age,High,Master,Caregiver/Home
+121,Female,Young Adult,Lower-Mid,High School,Full-Time Employee
+122,Male,Adult,Low,Bachelor,Caregiver/Home
+123,Female,Mid Age,Low,Phd,Caregiver/Home
+124,Male,Young Adult,Low,Bachelor,Full-Time Employee
+125,Male,Adult,High,Master,Full-Time Employee
+126,Male,Young Adult,Lower-Mid,High School,Student
+127,Female,Young Adult,Lower-Mid,High School,Student
+128,Male,Mid Age,Upper-Mid,High School,Full-Time Employee
+129,Male,Mid Age,Low,High School,Full-Time Employee
+130,Male,Young Adult,Low,High School,Part-Time/Shift
+131,Female,Young Adult,Upper-Mid,Master,Full-Time Employee
+132,Male,Adult,Upper-Mid,Master,Full-Time Employee
+133,Male,Young Adult,Lower-Mid,Master,Student
+134,Male,Adult,Low,Bachelor,Full-Time Employee
+135,Male,Mid Age,Low,Bachelor,Unemployed_Looking
+136,Female,Young Adult,Upper-Mid,High School,Student
+137,Male,Adult,Upper-Mid,High School,Part-Time/Shift
+138,Female,Young Adult,Low,Master,Student
+139,Female,Mid Age,Upper-Mid,Master,Unemployed_Looking
+140,Male,Young Adult,Lower-Mid,Master,Part-Time/Shift
+141,Female,Mid Age,Lower-Mid,Master,Part-Time/Shift
+142,Female,Adult,Low,Master,Unemployed_Looking
+143,Male,Adult,High,Bachelor,Full-Time Employee
+144,Male,Mid Age,Lower-Mid,High School,Full-Time Employee
+145,Female,Mid Age,Low,High School,Caregiver/Home
+146,Female,Mid Age,High,Bachelor,Caregiver/Home
+147,Male,Young Adult,Upper-Mid,High School,Student
+148,Female,Teen,Low,Bachelor,Full-Time Employee
+149,Female,Mid Age,Low,Master,Unemployed_Looking
+150,Male,Adult,High,High School,Full-Time Employee
+151,Female,Mid Age,Low,Bachelor,Full-Time Employee
+152,Female,Young Adult,Low,Master,Full-Time Employee
+153,Male,Teen,Lower-Mid,Bachelor,Full-Time Employee
+154,Female,Mid Age,Low,Phd,Full-Time Employee
+155,Female,Young Adult,Lower-Mid,Bachelor,Full-Time Employee
+156,Male,Mid Age,Lower-Mid,Master,Full-Time Employee
+157,Male,Mid Age,Low,Master,Full-Time Employee
+158,Female,Mid Age,Lower-Mid,Master,Unemployed_Looking
+159,Male,Adult,Upper-Mid,Master,Part-Time/Shift
+160,Male,Adult,Lower-Mid,Bachelor,Unemployed_Looking
+161,Female,Mid Age,Lower-Mid,High School,Unemployed_Looking
+162,Male,Adult,Low,High School,Full-Time Employee
+163,Male,Teen,Low,Bachelor,Part-Time/Shift
+164,Female,Young Adult,Lower-Mid,Master,Part-Time/Shift
+165,Male,Mid Age,Lower-Mid,High School,Caregiver/Home
+166,Female,Mid Age,Lower-Mid,Master,Caregiver/Home
+167,Male,Mid Age,Lower-Mid,Master,Caregiver/Home
+168,Male,Adult,Lower-Mid,Bachelor,Part-Time/Shift
+169,Female,Teen,Low,Bachelor,Part-Time/Shift
+170,Female,Adult,Upper-Mid,Master,Unemployed_Looking
+171,Male,Adult,Lower-Mid,High School,Full-Time Employee
+172,Female,Adult,Low,Bachelor,Unemployed_Looking
+173,Female,Adult,Low,Phd,Full-Time Employee
+174,Male,Mid Age,Lower-Mid,Bachelor,Caregiver/Home
+175,Female,Adult,High,Phd,Full-Time Employee
+176,Male,Mid Age,Upper-Mid,Phd,Full-Time Employee
+177,Female,Teen,Lower-Mid,High School,Part-Time/Shift
+178,Male,Mid Age,Low,Phd,Unemployed_Looking
+179,Male,Mid Age,Lower-Mid,Phd,Full-Time Employee
+180,Female,Adult,Upper-Mid,Bachelor,Student
+181,Female,Mid Age,Low,High School,Part-Time/Shift
+182,Female,Adult,Low,High School,Unemployed_Looking
+183,Male,Young Adult,Lower-Mid,Bachelor,Unemployed_Looking
+184,Female,Adult,High,Bachelor,Unemployed_Looking
+185,Female,Adult,Upper-Mid,High School,Unemployed_Looking
+186,Female,Mid Age,Lower-Mid,Bachelor,Part-Time/Shift
+187,Female,Young Adult,Upper-Mid,High School,Full-Time Employee
+188,Male,Adult,Lower-Mid,Phd,Full-Time Employee
+189,Female,Adult,High,Master,Full-Time Employee
+190,Male,Mid Age,Upper-Mid,Master,Full-Time Employee
+191,Female,Adult,High,Master,Part-Time/Shift
+192,Male,Adult,Upper-Mid,High School,Unemployed_Looking
+193,Female,Mid Age,High,High School,Full-Time Employee
+194,Male,Young Adult,Upper-Mid,Master,Student
+195,Male,Adult,Low,Master,Part-Time/Shift
+196,Female,Adult,Lower-Mid,Phd,Part-Time/Shift
+197,Male,Young Adult,Low,High School,Unemployed_Looking
+198,Female,Young Adult,High,Bachelor,Student
+199,Male,Young Adult,High,Bachelor,Unemployed_Looking
+200,Female,Mid Age,Upper-Mid,Phd,Caregiver/Home
+201,Male,Adult,High,High School,Unemployed_Looking
+202,Female,Mid Age,High,Master,Full-Time Employee
+203,Female,Adult,High,Master,Unemployed_Looking
+204,Male,Mid Age,Low,Bachelor,Full-Time Employee
+205,Female,Mid Age,Lower-Mid,Master,Full-Time Employee
+206,Male,Mid Age,Low,Phd,Full-Time Employee
+207,Male,Mid Age,Low,High School,Part-Time/Shift
+208,Female,Mid Age,Low,Bachelor,Caregiver/Home
+209,Female,Teen,Lower-Mid,Bachelor,Full-Time Employee
+210,Male,Mid Age,Upper-Mid,Bachelor,Unemployed_Looking
+211,Male,Mid Age,High,Bachelor,Full-Time Employee
+212,Female,Adult,Lower-Mid,Master,Unemployed_Looking
+213,Male,Young Adult,High,Bachelor,Full-Time Employee
+214,Male,Teen,Lower-Mid,Bachelor,Student
+215,Female,Mid Age,Lower-Mid,High School,Full-Time Employee
+216,Female,Young Adult,Lower-Mid,Bachelor,Unemployed_Looking
+217,Male,Teen,Low,Bachelor,Student
+218,Male,Mid Age,Low,High School,Caregiver/Home
+219,Male,Adult,High,Phd,Full-Time Employee
+220,Female,Adult,Upper-Mid,Phd,Unemployed_Looking
+221,Male,Young Adult,Lower-Mid,High School,Unemployed_Looking
+222,Male,Mid Age,Lower-Mid,High School,Part-Time/Shift
+223,Male,Adult,Low,Master,Unemployed_Looking
+224,Female,Young Adult,Low,Master,Part-Time/Shift
+225,Male,Adult,Lower-Mid,Master,Part-Time/Shift
+226,Female,Mid Age,High,High School,Unemployed_Looking
+227,Female,Adult,High,Phd,Part-Time/Shift
+228,Male,Young Adult,Upper-Mid,High School,Unemployed_Looking
+229,Male,Mid Age,High,High School,Unemployed_Looking
+230,Male,Teen,Low,Bachelor,Full-Time Employee
+231,Male,Mid Age,Upper-Mid,Phd,Part-Time/Shift
+232,Female,Mid Age,Low,Phd,Unemployed_Looking
+233,Female,Young Adult,High,High School,Full-Time Employee
+234,Male,Mid Age,Upper-Mid,High School,Part-Time/Shift
+235,Female,Adult,Upper-Mid,High School,Caregiver/Home
+236,Male,Teen,Lower-Mid,High School,Part-Time/Shift
+237,Female,Young Adult,Upper-Mid,Bachelor,Unemployed_Looking
+238,Male,Adult,High,Bachelor,Part-Time/Shift
+239,Female,Young Adult,High,Bachelor,Part-Time/Shift
+240,Female,Young Adult,Upper-Mid,Master,Student
+241,Female,Adult,Upper-Mid,High School,Student
+242,Male,Young Adult,High,Bachelor,Part-Time/Shift
+243,Male,Adult,Lower-Mid,Phd,Part-Time/Shift
+244,Female,Young Adult,Upper-Mid,High School,Unemployed_Looking
+245,Female,Young Adult,High,Master,Student
+246,Male,Mid Age,High,High School,Part-Time/Shift
+247,Female,Young Adult,Upper-Mid,Master,Unemployed_Looking
+248,Female,Young Adult,Low,Master,Unemployed_Looking
+249,Female,Young Adult,Low,High School,Student
+250,Female,Mid Age,Upper-Mid,High School,Caregiver/Home
+251,Female,Young Adult,High,Master,Full-Time Employee
+252,Male,Young Adult,High,High School,Unemployed_Looking
+253,Male,Adult,High,Master,Part-Time/Shift
+254,Male,Young Adult,Low,Master,Part-Time/Shift
+255,Female,Mid Age,High,Master,Unemployed_Looking
+256,Female,Adult,Lower-Mid,High School,Full-Time Employee
+257,Female,Mid Age,Upper-Mid,High School,Part-Time/Shift
+258,Female,Adult,Lower-Mid,Phd,Full-Time Employee
+259,Male,Adult,High,Master,Unemployed_Looking
+260,Male,Mid Age,Upper-Mid,Master,Unemployed_Looking
+261,Male,Adult,Lower-Mid,Phd,Unemployed_Looking
+262,Female,Adult,Upper-Mid,Phd,Part-Time/Shift
+263,Male,Adult,Upper-Mid,Phd,Student
+264,Male,Young Adult,Low,Master,Full-Time Employee
+265,Female,Teen,Lower-Mid,Bachelor,Part-Time/Shift
+266,Male,Mid Age,Upper-Mid,Bachelor,Full-Time Employee
+267,Female,Young Adult,High,High School,Student
+268,Female,Mid Age,Upper-Mid,Phd,Full-Time Employee
+269,Male,Mid Age,High,Bachelor,Caregiver/Home
+270,Female,Mid Age,Low,Master,Part-Time/Shift
+271,Male,Mid Age,Low,Master,Caregiver/Home
+272,Female,Adult,Upper-Mid,Phd,Full-Time Employee
+273,Female,Young Adult,Lower-Mid,High School,Unemployed_Looking
+274,Male,Adult,High,Bachelor,Unemployed_Looking
+275,Male,Mid Age,Upper-Mid,High School,Unemployed_Looking
+276,Male,Young Adult,Upper-Mid,Master,Full-Time Employee
+277,Male,Adult,Upper-Mid,Phd,Part-Time/Shift
+278,Male,Adult,Low,Phd,Part-Time/Shift
+279,Female,Adult,Low,Phd,Part-Time/Shift
+280,Male,Mid Age,Upper-Mid,High School,Caregiver/Home
+281,Male,Adult,Low,Bachelor,Unemployed_Looking
+282,Male,Young Adult,High,Master,Full-Time Employee
+283,Female,Mid Age,High,Phd,Full-Time Employee
+284,Male,Mid Age,Low,Master,Unemployed_Looking
+285,Female,Mid Age,Upper-Mid,Phd,Unemployed_Looking
+286,Female,Mid Age,Low,High School,Unemployed_Looking
+287,Male,Young Adult,High,Master,Part-Time/Shift
+288,Female,Mid Age,High,High School,Caregiver/Home
+289,Female,Mid Age,High,Master,Part-Time/Shift
+290,Female,Teen,Lower-Mid,High School,Full-Time Employee
+291,Male,Adult,Lower-Mid,High School,Unemployed_Looking
+292,Male,Adult,High,Phd,Part-Time/Shift
+293,Female,Mid Age,Upper-Mid,Master,Caregiver/Home
+294,Female,Mid Age,Lower-Mid,High School,Part-Time/Shift
+295,Female,Young Adult,Lower-Mid,High School,Part-Time/Shift
+296,Female,Adult,High,High School,Part-Time/Shift
+297,Male,Young Adult,Lower-Mid,High School,Part-Time/Shift
+298,Female,Adult,High,Phd,Unemployed_Looking
+299,Male,Adult,Lower-Mid,High School,Part-Time/Shift
+300,Female,Adult,Lower-Mid,Phd,Unemployed_Looking
+301,Male,Young Adult,High,Master,Student
+302,Female,Mid Age,Upper-Mid,High School,Unemployed_Looking
+303,Male,Adult,Low,Master,Caregiver/Home
+304,Male,Mid Age,Lower-Mid,Bachelor,Part-Time/Shift
+305,Female,Mid Age,High,Phd,Part-Time/Shift
+306,Male,Mid Age,Upper-Mid,Phd,Unemployed_Looking
+307,Male,Mid Age,Lower-Mid,Phd,Caregiver/Home
+308,Female,Young Adult,Upper-Mid,Master,Part-Time/Shift
+309,Male,Teen,Low,High School,Unemployed_Looking
+310,Female,Young Adult,High,Bachelor,Unemployed_Looking
+311,Male,Mid Age,Lower-Mid,Phd,Part-Time/Shift
+312,Male,Adult,Upper-Mid,Bachelor,Caregiver/Home
+313,Female,Teen,Low,High School,Full-Time Employee
+314,Female,Teen,Low,High School,Unemployed_Looking
+315,Female,Mid Age,Low,Phd,Part-Time/Shift
+316,Male,Mid Age,High,Master,Part-Time/Shift
+317,Male,Mid Age,Lower-Mid,Bachelor,Unemployed_Looking
+318,Male,Teen,Lower-Mid,High School,Unemployed_Looking
+319,Male,Adult,Lower-Mid,High School,Caregiver/Home
+320,Male,Mid Age,Low,Phd,Part-Time/Shift
+321,Male,Mid Age,High,Phd,Caregiver/Home
+322,Female,Adult,Lower-Mid,High School,Part-Time/Shift
+323,Male,Mid Age,Low,High School,Unemployed_Looking
+324,Male,Mid Age,Lower-Mid,Master,Unemployed_Looking
+325,Male,Mid Age,High,High School,Caregiver/Home
+326,Male,Young Adult,Upper-Mid,High School,Full-Time Employee
+327,Female,Young Adult,Upper-Mid,High School,Part-Time/Shift
+328,Female,Adult,Lower-Mid,Bachelor,Caregiver/Home
+329,Female,Adult,Lower-Mid,Master,Caregiver/Home
+330,Male,Mid Age,High,Master,Unemployed_Looking
+331,Female,Mid Age,High,Phd,Unemployed_Looking
+332,Male,Mid Age,Upper-Mid,Master,Caregiver/Home
+333,Female,Teen,Lower-Mid,Bachelor,Unemployed_Looking
+334,Female,Young Adult,Low,High School,Unemployed_Looking
+335,Female,Adult,Upper-Mid,Master,Caregiver/Home
+336,Male,Young Adult,Low,Master,Unemployed_Looking
+337,Male,Teen,Lower-Mid,High School,Full-Time Employee
+338,Male,Young Adult,Lower-Mid,Master,Unemployed_Looking
+339,Male,Teen,Lower-Mid,Bachelor,Unemployed_Looking
+340,Male,Adult,Lower-Mid,Master,Unemployed_Looking
+341,Female,Senior,Low,Bachelor,Unemployed_Looking
+342,Male,Senior,Upper-Mid,Phd,Full-Time Employee
+343,Male,Teen,High,High School,Student
+344,Male,Senior,Upper-Mid,Master,Full-Time Employee
+345,Male,Senior,Upper-Mid,High School,Full-Time Employee
+346,Male,Senior,Upper-Mid,Bachelor,Unemployed_Looking
+347,Female,Senior,Lower-Mid,Bachelor,Caregiver/Home
+348,Female,Teen,Upper-Mid,High School,Part-Time/Shift
+349,Female,Senior,Low,Bachelor,Full-Time Employee
+350,Male,Senior,Lower-Mid,Bachelor,Full-Time Employee
+351,Female,Senior,Upper-Mid,High School,Part-Time/Shift
+352,Male,Teen,High,High School,Full-Time Employee
+353,Male,Senior,Low,High School,Unemployed_Looking
+354,Female,Adult,Low,High School,Part-Time/Shift
+355,Female,Senior,Lower-Mid,Bachelor,Full-Time Employee
+356,Female,Teen,Upper-Mid,Bachelor,Part-Time/Shift
+357,Male,Senior,Lower-Mid,High School,Caregiver/Home
+358,Female,Senior,Low,High School,Part-Time/Shift
+359,Male,Adult,Lower-Mid,Phd,Student
+360,Female,Teen,Upper-Mid,High School,Unemployed_Looking
+361,Male,Teen,Upper-Mid,High School,Part-Time/Shift
+362,Male,Teen,Upper-Mid,High School,Student
+363,Male,Senior,Upper-Mid,Master,Unemployed_Looking
+364,Female,Teen,Upper-Mid,High School,Student
+365,Female,Senior,Upper-Mid,Phd,Full-Time Employee
+366,Female,Teen,High,High School,Part-Time/Shift
+367,Female,Senior,Upper-Mid,High School,Full-Time Employee
+368,Female,Teen,High,High School,Student
+369,Female,Senior,Lower-Mid,Master,Part-Time/Shift
+370,Male,Senior,Low,Bachelor,Full-Time Employee
+371,Female,Adult,Lower-Mid,Phd,Student
+372,Male,Senior,Upper-Mid,High School,Part-Time/Shift
+373,Male,Senior,Lower-Mid,Master,Full-Time Employee
+374,Female,Young Adult,High,High School,Part-Time/Shift
+375,Female,Mid Age,Lower-Mid,Phd,Unemployed_Looking
+376,Male,Senior,Lower-Mid,Bachelor,Part-Time/Shift
+377,Male,Mid Age,High,Phd,Full-Time Employee
+378,Male,Teen,Upper-Mid,Bachelor,Student
+379,Female,Senior,Lower-Mid,Master,Full-Time Employee
+380,Male,Adult,High,Phd,Unemployed_Looking
+381,Female,Teen,Upper-Mid,Bachelor,Student
+382,Male,Senior,High,Bachelor,Caregiver/Home
+383,Female,Senior,Upper-Mid,Bachelor,Unemployed_Looking
+384,Male,Senior,Low,Bachelor,Unemployed_Looking
+385,Female,Senior,High,Master,Unemployed_Looking
+386,Male,Senior,Low,Master,Full-Time Employee
+387,Female,Senior,Low,Master,Part-Time/Shift
+388,Male,Senior,Low,Bachelor,Caregiver/Home
+389,Female,Senior,Upper-Mid,Bachelor,Full-Time Employee
+390,Male,Senior,Lower-Mid,High School,Part-Time/Shift
+391,Female,Senior,Lower-Mid,Master,Unemployed_Looking
+392,Male,Senior,High,Master,Unemployed_Looking
+393,Female,Senior,Low,High School,Full-Time Employee
+394,Male,Mid Age,Upper-Mid,Phd,Caregiver/Home
+395,Male,Senior,Low,Master,Part-Time/Shift
+396,Male,Senior,Low,Master,Unemployed_Looking
+397,Male,Senior,Lower-Mid,Master,Caregiver/Home
+398,Female,Adult,Low,Master,Student
+399,Male,Adult,Lower-Mid,Bachelor,Caregiver/Home
+400,Male,Young Adult,High,Master,Unemployed_Looking
+401,Male,Senior,Lower-Mid,Master,Part-Time/Shift
+402,Female,Teen,High,Bachelor,Student
+403,Female,Adult,Lower-Mid,Bachelor,Student
+404,Male,Senior,Upper-Mid,High School,Unemployed_Looking
+405,Female,Senior,High,Master,Full-Time Employee
+406,Male,Adult,Upper-Mid,Master,Unemployed_Looking
+407,Male,Senior,Upper-Mid,Master,Part-Time/Shift
+408,Female,Teen,High,High School,Full-Time Employee
+409,Male,Senior,Lower-Mid,Bachelor,Caregiver/Home
+410,Female,Senior,Low,Bachelor,Caregiver/Home
+411,Female,Adult,Lower-Mid,Master,Student
+412,Male,Senior,Low,Phd,Caregiver/Home
+413,Male,Senior,Lower-Mid,Phd,Part-Time/Shift
+414,Male,Senior,High,Phd,Caregiver/Home
+415,Female,Senior,High,Bachelor,Unemployed_Looking
+416,Male,Mid Age,High,Phd,Part-Time/Shift
+417,Male,Senior,High,Bachelor,Full-Time Employee
+418,Female,Senior,Low,Master,Unemployed_Looking
+419,Female,Senior,Upper-Mid,Phd,Unemployed_Looking
+420,Female,Senior,Lower-Mid,Master,Caregiver/Home
+421,Female,Senior,Low,Phd,Caregiver/Home
+422,Female,Senior,Low,Master,Full-Time Employee
+423,Male,Senior,Low,High School,Full-Time Employee
+424,Female,Senior,Upper-Mid,Master,Full-Time Employee
+425,Female,Senior,Low,Phd,Unemployed_Looking
+426,Male,Senior,Upper-Mid,Bachelor,Full-Time Employee
+427,Male,Senior,High,Master,Full-Time Employee
+428,Male,Teen,Upper-Mid,High School,Full-Time Employee
+429,Male,Senior,Upper-Mid,High School,Caregiver/Home
+430,Male,Young Adult,High,High School,Full-Time Employee
+431,Male,Mid Age,Lower-Mid,High School,Unemployed_Looking
+432,Female,Senior,Lower-Mid,Bachelor,Unemployed_Looking
+433,Male,Adult,High,Bachelor,Student
+434,Male,Adult,Low,High School,Student
+435,Female,Adult,Low,Phd,Unemployed_Looking
+436,Male,Senior,Upper-Mid,Bachelor,Part-Time/Shift
+437,Female,Senior,Upper-Mid,Bachelor,Caregiver/Home
+438,Male,Senior,High,Master,Caregiver/Home
+439,Female,Senior,Upper-Mid,Master,Part-Time/Shift
+440,Male,Senior,Lower-Mid,Bachelor,Unemployed_Looking
+441,Female,Mid Age,Upper-Mid,Master,Part-Time/Shift
+442,Female,Senior,High,High School,Caregiver/Home
+443,Female,Senior,Low,High School,Unemployed_Looking
+444,Male,Senior,High,Phd,Full-Time Employee
+445,Female,Senior,Lower-Mid,Phd,Caregiver/Home
+446,Male,Teen,High,High School,Unemployed_Looking
+447,Female,Senior,Upper-Mid,Bachelor,Part-Time/Shift
+448,Female,Senior,High,Bachelor,Full-Time Employee
+449,Male,Mid Age,Low,Phd,Caregiver/Home
+450,Female,Senior,High,High School,Full-Time Employee
+451,Female,Senior,Low,High School,Caregiver/Home
+452,Male,Senior,Lower-Mid,Phd,Caregiver/Home
+453,Female,Senior,Upper-Mid,Master,Caregiver/Home
+454,Male,Senior,Low,High School,Part-Time/Shift
+455,Male,Senior,High,High School,Full-Time Employee
+456,Male,Senior,Lower-Mid,Phd,Unemployed_Looking
+457,Female,Senior,Low,Phd,Full-Time Employee
+458,Female,Adult,Upper-Mid,Bachelor,Caregiver/Home
+459,Male,Senior,Lower-Mid,High School,Full-Time Employee
+460,Female,Senior,Lower-Mid,High School,Full-Time Employee
+461,Male,Senior,High,High School,Caregiver/Home
+462,Male,Senior,Low,Bachelor,Part-Time/Shift
+463,Male,Senior,High,High School,Unemployed_Looking
+464,Female,Senior,Lower-Mid,Bachelor,Part-Time/Shift
+465,Female,Senior,High,Master,Part-Time/Shift
+466,Female,Adult,Low,Bachelor,Caregiver/Home
+467,Male,Mid Age,Lower-Mid,Phd,Unemployed_Looking
+468,Female,Senior,High,Master,Caregiver/Home
+469,Male,Senior,High,Master,Part-Time/Shift
+470,Female,Teen,Low,Bachelor,Unemployed_Looking
+471,Female,Senior,High,Bachelor,Part-Time/Shift
+472,Male,Senior,High,Bachelor,Unemployed_Looking
+473,Female,Teen,Upper-Mid,High School,Full-Time Employee
+474,Male,Senior,Lower-Mid,Phd,Full-Time Employee
+475,Male,Senior,Upper-Mid,Bachelor,Caregiver/Home
+476,Male,Teen,Upper-Mid,Bachelor,Part-Time/Shift
+477,Male,Young Adult,High,High School,Student
+478,Female,Senior,Low,Bachelor,Part-Time/Shift
+479,Male,Adult,Lower-Mid,Master,Student
+480,Male,Adult,High,Master,Student
+481,Male,Teen,High,Bachelor,Student
+482,Male,Teen,High,High School,Part-Time/Shift
+483,Male,Senior,High,Bachelor,Part-Time/Shift
+484,Male,Teen,Upper-Mid,Bachelor,Full-Time Employee
+485,Female,Teen,Upper-Mid,Bachelor,Unemployed_Looking
+486,Male,Senior,High,High School,Part-Time/Shift
+487,Female,Senior,Upper-Mid,High School,Unemployed_Looking
+488,Male,Adult,Lower-Mid,High School,Student
+489,Female,Adult,High,Master,Student
+490,Male,Adult,Low,Bachelor,Student
+491,Male,Senior,Low,Phd,Full-Time Employee
+492,Female,Senior,Upper-Mid,High School,Caregiver/Home
+493,Female,Adult,Lower-Mid,Phd,Caregiver/Home
+494,Female,Senior,High,Bachelor,Caregiver/Home
+495,Female,Senior,Upper-Mid,Phd,Part-Time/Shift
+496,Male,Teen,Upper-Mid,High School,Unemployed_Looking
+497,Male,Senior,Lower-Mid,Master,Unemployed_Looking
+498,Male,Senior,Upper-Mid,Master,Caregiver/Home
+499,Male,Senior,Upper-Mid,Phd,Caregiver/Home
+500,Female,Adult,Low,Bachelor,Student
+501,Female,Senior,Lower-Mid,High School,Caregiver/Home
+502,Female,Senior,Upper-Mid,Master,Unemployed_Looking
+503,Male,Senior,Low,Master,Caregiver/Home
+504,Female,Senior,High,High School,Part-Time/Shift
+505,Female,Senior,Lower-Mid,Phd,Full-Time Employee
+506,Female,Mid Age,Lower-Mid,Phd,Caregiver/Home
+507,Female,Adult,Low,High School,Student
+508,Male,Adult,Low,Master,Student
+509,Female,Adult,High,Phd,Caregiver/Home
+510,Female,Senior,Lower-Mid,Phd,Unemployed_Looking
+511,Male,Teen,High,Bachelor,Part-Time/Shift
+512,Female,Young Adult,High,Master,Unemployed_Looking
+513,Female,Senior,Lower-Mid,High School,Unemployed_Looking
+514,Female,Adult,High,Bachelor,Student
+515,Male,Senior,Low,High School,Caregiver/Home
+516,Female,Senior,High,Phd,Full-Time Employee
+517,Female,Senior,High,High School,Unemployed_Looking
+518,Male,Adult,Upper-Mid,Master,Student
+519,Female,Adult,Lower-Mid,High School,Caregiver/Home
+520,Female,Senior,Lower-Mid,High School,Part-Time/Shift
+521,Female,Adult,High,Master,Caregiver/Home
+522,Female,Senior,Low,Phd,Part-Time/Shift
+523,Female,Senior,High,Phd,Caregiver/Home
+524,Male,Adult,Low,High School,Caregiver/Home
+525,Female,Adult,High,High School,Student
+526,Male,Young Adult,Upper-Mid,Master,Unemployed_Looking
+527,Male,Adult,Upper-Mid,Master,Caregiver/Home
+528,Male,Senior,Low,Phd,Part-Time/Shift
+529,Female,Adult,High,High School,Caregiver/Home
+530,Male,Adult,Lower-Mid,Phd,Caregiver/Home
+531,Female,Adult,Low,High School,Caregiver/Home
+532,Male,Senior,Upper-Mid,Phd,Part-Time/Shift
+533,Female,Mid Age,High,Phd,Caregiver/Home
+534,Female,Adult,Lower-Mid,High School,Student
+535,Male,Adult,High,High School,Caregiver/Home
+536,Male,Young Adult,High,High School,Part-Time/Shift
+537,Male,Adult,High,Phd,Caregiver/Home
+538,Male,Adult,Low,Phd,Student
+539,Female,Senior,Lower-Mid,Phd,Part-Time/Shift
+540,Female,Teen,High,Bachelor,Part-Time/Shift
+541,Male,Adult,High,Bachelor,Caregiver/Home
+542,Female,Teen,High,High School,Unemployed_Looking
+543,Male,Senior,High,Phd,Part-Time/Shift
+544,Male,Senior,High,Phd,Unemployed_Looking
+545,Male,Senior,Lower-Mid,High School,Unemployed_Looking
+546,Female,Young Adult,High,High School,Unemployed_Looking
+547,Female,Senior,Low,Master,Caregiver/Home
+548,Male,Adult,High,High School,Student
+549,Female,Senior,High,Phd,Part-Time/Shift
+550,Male,Adult,Upper-Mid,High School,Caregiver/Home
+551,Female,Teen,High,Bachelor,Full-Time Employee
+552,Female,Senior,High,Phd,Unemployed_Looking
+553,Male,Adult,Lower-Mid,Bachelor,Student
+554,Male,Senior,Low,Phd,Unemployed_Looking
+555,Male,Senior,Upper-Mid,Phd,Unemployed_Looking
+556,Male,Young Adult,Upper-Mid,High School,Part-Time/Shift
+557,Female,Adult,Upper-Mid,Master,Student
+558,Female,Senior,Upper-Mid,Phd,Caregiver/Home
+559,Male,Adult,Upper-Mid,Phd,Unemployed_Looking
+560,Female,Adult,Upper-Mid,Phd,Student
+561,Female,Adult,High,Bachelor,Caregiver/Home
+562,Female,Adult,Low,Phd,Caregiver/Home
+563,Female,Adult,Low,Phd,Student
+564,Male,Adult,High,Master,Caregiver/Home
+565,Female,Adult,High,Phd,Student
+566,Female,Teen,High,Bachelor,Unemployed_Looking
+567,Male,Adult,Upper-Mid,Phd,Caregiver/Home
+568,Male,Adult,Low,Phd,Caregiver/Home
+569,Male,Teen,Upper-Mid,Bachelor,Unemployed_Looking
+570,Female,Teen,Upper-Mid,Bachelor,Full-Time Employee
+571,Male,Adult,Lower-Mid,Master,Caregiver/Home
+572,Male,Adult,High,Phd,Student
+573,Male,Teen,High,Bachelor,Full-Time Employee
+574,Male,Teen,Low,Bachelor,Unemployed_Looking

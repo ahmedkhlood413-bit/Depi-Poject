@@ -1,0 +1,48 @@
+health_key,sleep_category,mental_health_risk,productivity_category
+1,Oversleep,High,Good
+2,Healthy Sleep,Medium,Good
+3,Average Sleep,Medium,Good
+4,Healthy Sleep,High,Good
+5,Average Sleep,High,Good
+6,Healthy Sleep,High,Excellent
+7,Oversleep,High,Average
+8,Oversleep,Medium,Good
+9,Average Sleep,High,Average
+10,Healthy Sleep,Medium,Average
+11,Oversleep,Medium,Average
+12,Average Sleep,Medium,Average
+13,Healthy Sleep,High,Average
+14,Poor Sleep,Medium,Good
+15,Healthy Sleep,Medium,Excellent
+16,Average Sleep,Medium,Low
+17,Average Sleep,High,Excellent
+18,Poor Sleep,High,Good
+19,Oversleep,High,Excellent
+20,Poor Sleep,High,Average
+21,Average Sleep,Low,Good
+22,Healthy Sleep,Low,Good
+23,Healthy Sleep,Low,Average
+24,Average Sleep,Low,Average
+25,Oversleep,Low,Good
+26,Average Sleep,Medium,Excellent
+27,Healthy Sleep,Low,Excellent
+28,Healthy Sleep,High,Low
+29,Poor Sleep,Medium,Average
+30,Poor Sleep,High,Excellent
+31,Oversleep,Low,Average
+32,Average Sleep,Low,Low
+33,Healthy Sleep,Medium,Low
+34,Poor Sleep,Low,Good
+35,Average Sleep,Low,Excellent
+36,Average Sleep,High,Low
+37,Poor Sleep,Medium,Excellent
+38,Oversleep,Low,Excellent
+39,Oversleep,Medium,Excellent
+40,Poor Sleep,Low,Average
+41,Poor Sleep,High,Low
+42,Healthy Sleep,Low,Low
+43,Oversleep,Low,Low
+44,Poor Sleep,Low,Excellent
+45,Oversleep,Medium,Low
+46,Oversleep,High,Low
+47,Poor Sleep,Medium,Low
