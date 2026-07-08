@@ -27,7 +27,7 @@ An end-to-end Data Analytics and Business Intelligence project that explores the
 
 Digital technology has become an essential part of everyday life, influencing how people communicate, work, study, and spend their free time. While these technologies offer many benefits, excessive digital usage has also been associated with increased stress, anxiety, poor sleep, and other mental health concerns.
 
-This project analyzes the relationship between digital lifestyle behaviors—including screen time, social media usage, phone unlock frequency, notifications, sleep quality, and physical activity—and mental health indicators such as depression, anxiety, stress, and digital dependence.
+This project analyzes the relationship between digital lifestyle behaviors including screen time, social media usage, phone unlock frequency, notifications, sleep quality, and physical activity, and mental health indicators such as depression, anxiety, stress, and digital dependence.
 
 Using Python for data processing, a Medallion Architecture for data transformation, a Star Schema for analytical modeling, and Power BI for visualization, the project transforms raw survey data into meaningful insights that support digital wellness awareness and data-driven decision making.
 
